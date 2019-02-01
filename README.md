@@ -1,2 +1,2 @@
 # Python-Coding
-Python coding Syub
+Python coding Stub
